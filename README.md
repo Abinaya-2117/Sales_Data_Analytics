@@ -11,7 +11,7 @@ The goal of this project is to provide cross-functional leadership (Clinical, Op
 
 ### 1. Customer Service & Support Operations
 
-![Dashboard](Customer_Dashboard.pdf)
+![Dashboard](Customer_Dashboard.png)
 
 - **CSAT Analysis:** Tracks average Customer Satisfaction (CSAT) scores across support agents.
 - **Support Workload:** Monitors interaction volume grouped by contact types (**Query**, **Request**, **Complaint**).
@@ -20,7 +20,7 @@ The goal of this project is to provide cross-functional leadership (Clinical, Op
 
 ### 2. Order Fulfillment & Pricing Metrics
 
-![Dashboard](Order_Dashboard.pdf)
+![Dashboard](Order_Dashboard.png)
 
 - **Channel Performance:** Analyzes revenue distribution between **Online** orders and **Physical Visits**.
 - **Discount & Revenue Impact:** Reconciles gross revenue against net revenue after applied discounts to identify margin erosion.
@@ -28,7 +28,7 @@ The goal of this project is to provide cross-functional leadership (Clinical, Op
 
 ### 3. Financial & Regional Sales Performance
 
-![Dashboard](Finance_Dashboard.pdf)
+![Dashboard](Finance_Dashboard.png)
 
 - **Regional Breakdown:** Evaluates sales performance across key geographical territories (**North**, **South**, **East**, **West**).
 - **Daily Sales Trends:** Tracks daily overall and average sales metrics to detect seasonal or operational fluctuations.
