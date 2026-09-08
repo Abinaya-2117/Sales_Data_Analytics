@@ -10,17 +10,26 @@ The goal of this project is to provide cross-functional leadership (Clinical, Op
 ## Key Dashboards & Features
 
 ### 1. Customer Service & Support Operations
+
+![Dashboard](Customer_Dashboard.pdf)
+
 - **CSAT Analysis:** Tracks average Customer Satisfaction (CSAT) scores across support agents.
 - **Support Workload:** Monitors interaction volume grouped by contact types (**Query**, **Request**, **Complaint**).
 - **Ticket Resolution Tracking:** Evaluates service performance and identifies support bottlenecks.
 - 
 
 ### 2. Order Fulfillment & Pricing Metrics
+
+![Dashboard](Order_Dashboard.pdf)
+
 - **Channel Performance:** Analyzes revenue distribution between **Online** orders and **Physical Visits**.
 - **Discount & Revenue Impact:** Reconciles gross revenue against net revenue after applied discounts to identify margin erosion.
 - **Product Demand:** Highlights top-performing products and sales volume trends.
 
 ### 3. Financial & Regional Sales Performance
+
+![Dashboard](Finance_Dashboard.pdf)
+
 - **Regional Breakdown:** Evaluates sales performance across key geographical territories (**North**, **South**, **East**, **West**).
 - **Daily Sales Trends:** Tracks daily overall and average sales metrics to detect seasonal or operational fluctuations.
 - **Rounding & Price Realization:** Compares actual sales values against nearest-unit rounded price thresholds.
